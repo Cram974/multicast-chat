@@ -51,7 +51,6 @@ class ListenSocket(Thread):
     def __init__ (self, sock):
         Thread.__init__(self)
         self.sock = sock
-        self.prompt = prompt
         self.shouldrun = True
 
     def run(self):
