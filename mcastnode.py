@@ -1,6 +1,4 @@
 #!/usr/bin/python
-# Copyright (c) 2014 University of La Reunion - LIM - France
-# Author:   Marc Dijoux
 #-------------------------------------------------------------------------
 # Goals :			    				      	      
 # ------          							     
